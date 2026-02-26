@@ -12,7 +12,7 @@
         "node": "18.12.1"
     },
     "dependencies": {
-        "vite": "^4.5.0",
-        "vite-plugin-symfony": "^4.3.4"
+        "vite": "^7.3.1",
+        "vite-plugin-symfony": "^8.2.3"
     }
 }
